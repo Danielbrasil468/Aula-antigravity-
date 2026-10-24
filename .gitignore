@@ -1,0 +1,14 @@
+# Ambiente virtual Python (pesado e não deve subir pro GitHub)
+.venv/
+venv/
+env/
+
+# Arquivos temporários e cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos do sistema operacional
+Thumbs.db
+.DS_Store
+
